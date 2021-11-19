@@ -1,1 +1,2 @@
-# animal map
+#animal map
+AnimalMapプロジェクトリポジトリです。
